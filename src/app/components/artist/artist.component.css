@@ -16,14 +16,3 @@
     overflow: auto;
     min-height: 400px;
 }
-
-.album {
-    text-align: center;
-    background: #333;
-    padding: 10px 20px;
-    border: 1px solid #666; 
-}
-
-.album-thumb {
-    width: 100%;
-}
